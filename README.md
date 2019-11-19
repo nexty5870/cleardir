@@ -1,0 +1,2 @@
+# cleardir
+Directory cleaner
